@@ -1,6 +1,6 @@
 # ADAR_TNBC
 
-R Scripts associated with Kung, Cottrell et. al, 2020.
+R Scripts associated with Kung, Cottrell et al., 2020.
 
 Analysis of CCLE and DepMap data: Essential_DEMETER_CERES_manuscript.R
 
